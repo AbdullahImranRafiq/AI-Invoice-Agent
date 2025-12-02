@@ -28,7 +28,7 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 OCR_API_KEY = os.getenv("API_KEY")
 
 st.set_page_config(page_title="Finance Dashboard", page_icon="💸")
-st.title("Personal Finance Dashboard")
+st.title("💵 Personal Finance Dashboard")
 
 uploaded_invoices = st.file_uploader(
     "Upload Invoices",
