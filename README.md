@@ -8,7 +8,7 @@ A Streamlit-based application that uses OCR and AI to extract structured invoice
 
 ## 📸 Screenshots
 
-![Invoice Upload](.\demo.gif)
+![Invoice Upload](demo.gif)
 
 > *Upload invoices, extract data automatically, and visualize your spending patterns with AI-powered intelligence.*
 
