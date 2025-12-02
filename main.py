@@ -170,7 +170,7 @@ Return a structured dict compatible with convert_to_csv. Here is the OCR text: {
 
             # Attempt to clean and parse the content
             cleaned_content = raw_content.strip(
-                "`json\n\`")  # Remove formatting if present
+                "`json\n\\`")  # Remove formatting if present
             parsed_data = json.loads(cleaned_content)
 
             # Ensure parsed_data is a dictionary before passing to convert_to_csv
