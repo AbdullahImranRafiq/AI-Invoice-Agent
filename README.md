@@ -6,7 +6,7 @@ A Streamlit-based application that uses OCR and AI to extract structured invoice
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Google AI](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
-## 📸 Screenshots
+## 📸 Demo
 
 ![Invoice Upload](demo.gif)
 
@@ -122,4 +122,5 @@ This software is provided "as is" without warranty of any kind. See the LICENSE 
     ·
     <a href="https://github.com/yourusername/Python_Invoice_Agent/issues">Request Feature</a>
   </p>
+
 </div>
